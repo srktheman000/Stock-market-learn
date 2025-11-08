@@ -1,7 +1,3 @@
-Perfect 👍 Here’s the enhanced **`README.md`** with a motivational quote and a clear **Learning Objectives** section added — still keeping it professional and classroom-ready:
-
----
-
 # 📈 Stock Market Analysis – Introduction Class
 
 Welcome to the **Stock Market Analysis** introductory session!
